@@ -42,7 +42,7 @@ Feel free to take a look at my projects! :see_no_evil:
 <br>
 
 - The Broke Globetrotter | An app I created with a colleague featuring back-end technologies (MongoDB, Express, Node.js, Handlebars), for broke travellers (story of my life..!) :earth_africa:
-<br> Visit it: https://partymates.netlify.app/
+<br> Visit it: https://the-broke-globetrotter.adaptable.app/
 
 <br>
 
