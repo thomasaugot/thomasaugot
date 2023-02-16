@@ -6,7 +6,7 @@
 
 My name is Thomas Augot, junior web developer from France, living in Fuerteventura :sun_with_face:
 
-I am currently looking for an entry-level position so if you landed here, spread the word :smirk:
+I am currently looking for an entry-level position so if you landed here, hire me or spread the word ! :smirk:
 
 ---
 
