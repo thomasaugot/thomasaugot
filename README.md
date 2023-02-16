@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github profile!
+
+My name is Thomas Augot, junior web developer from France, living in Fuerteventura :sun_with_face:
+
+I am currently looking for an entry-level position and if you landed here, spread the word :smirk:
+
+I am building with:
+- HTML
+- CSS
+- Javascript
+- React.js
+- MongoDB
+- Express.js
+- Node.js
+
+
 
 <!--
 **thomasaugot/thomasaugot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
