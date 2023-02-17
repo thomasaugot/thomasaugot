@@ -1,12 +1,19 @@
-## Hi there 👋 Welcome to my Github profile!			
+## Hi there <img src="./spongebob-hand-waving.gif" width="40" /> Welcome to my Github profile!			
 
 -----
 
 <br>
 
-My name is Thomas Augot, junior web developer from France, living in Fuerteventura :sun_with_face:
+My name is Thomas Augot, Junior Web Developer from France, living in Fuerteventura <img src="./island-palm-tree.gif" width="40" />
 
-I am currently looking for an entry-level position so if you landed here, hire me or spread the word ! :smirk:
+I am currently looking for an entry-level position so if you landed here, hire me or spread the word !
+
+<p align="left">
+	Connect with me:	<br>
+	<a href="https://www.linkedin.com/in/thomas-augot"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="70" /></a>
+		<a href="mailto:thomas.augot@hotmail.fr"><img src="./outlooklogo.gif" width="70" /></a>
+
+</p>
 
 ---
 
@@ -32,32 +39,22 @@ I am building with:
 
 <br>
 
-Feel free to take a look at my projects! :see_no_evil: 
+Feel free to take a look at my personal projects! <img src="./eyes-emoji.gif" width="30" /> 
 
 <br>
 
-- Pickle Rick shooting Game | My first coding project, a cool Javascript shooting game, kill the angry rats! :rat:
+- Pickle Rick shooting Game | My first coding project, a cool Javascript shooting game, kill the angry rats!
 <br>Try it: https://pickle-rick-shooting-game.netlify.app/
 
 <br>
 
-- The Broke Globetrotter | An app I created with a colleague featuring back-end technologies (MongoDB, Express, Node.js, Handlebars), for broke travellers (story of my life..!) :earth_africa:
+- The Broke Globetrotter | An app I created with a colleague featuring back-end technologies (MongoDB, Express, Node.js, Handlebars), for broke travellers (story of my life..!)
 <br> Visit it: https://the-broke-globetrotter.adaptable.app/
 
 <br>
 
-- Partymates | A full-stack MERN sort of social media app I created to connect people so they can travel to festivals together :tada:
+- Partymates | A full-stack MERN sort of social media app I created to connect people so they can travel to festivals together 
 <br> Visit it: https://partymates.netlify.app/
 
 <br>
-
-For the codes, they are all pinned right below :eyes: :arrow_heading_down:
-
-<p align="right"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/thomasaugot/count.svg" />
-</p>
-<p align="right">
-	Find me on <br>
-	<a href="https://www.linkedin.com/in/thomas-augot"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" /></a>
-</p>
+For the codes, they are all pinned right below <img src="./backhand-index-pointing-down-joypixels.gif" width="40" />
