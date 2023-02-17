@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Github profile!
+## Hi there 👋 Welcome to my Github profile!			
 
 -----
 
@@ -52,3 +52,12 @@ Feel free to take a look at my projects! :see_no_evil:
 <br>
 
 For the codes, they are all pinned right below :eyes: :arrow_heading_down:
+
+<p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thomasaugot/count.svg" />
+</p>
+<p align="right">
+	Find me on <br>
+	<a href="https://www.linkedin.com/in/thomas-augot"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif" /></a>
+</p>
