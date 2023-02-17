@@ -1,4 +1,4 @@
-## Hi there <img src="./spongebob-hand-waving.gif" width="40" /> Welcome to my Github profile!			
+## Hi there <img src="./spongebob-hand-waving.gif" width="50" /> Welcome to my Github profile!			
 
 -----
 
