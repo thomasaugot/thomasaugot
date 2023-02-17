@@ -2,8 +2,6 @@
 
 -----
 
-<br>
-
 My name is Thomas Augot, Junior Web Developer from France, living in Fuerteventura <img src="./island-palm-tree.gif" width="40" />
 
 I am currently looking for an entry-level position so if you landed here, hire me or spread the word !
