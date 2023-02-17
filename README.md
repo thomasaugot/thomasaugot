@@ -8,7 +8,7 @@ I am currently looking for an entry-level position so if you landed here, hire m
 
 <p align="left">
 	Connect with me:	<br>
-	<a href="https://www.linkedin.com/in/thomas-augot"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="70" /></a>
+	<a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="70" /></a>
 		<a href="mailto:thomas.augot@hotmail.fr"><img src="./outlooklogo.gif" width="70" /></a>
 
 </p>
