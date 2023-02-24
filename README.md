@@ -41,17 +41,26 @@ Feel free to take a look at my personal projects! <img src="./eyes-emoji.gif" wi
 
 <br>
 
+- My personal portfolio website
+<br> Tech stack: React, SCSS/SASS
+<br> Visit it: https://portfolio-thomas-augot.netlify.app/
+
+<br>
+
 - Pickle Rick shooting Game | My first coding project, a cool Javascript shooting game, kill the angry rats!
-<br>Try it: https://pickle-rick-shooting-game.netlify.app/
+<br> Tech stack: HTML, CSS, Javascript
+<br> Try it: https://pickle-rick-shooting-game.netlify.app/
 
 <br>
 
 - The Broke Globetrotter | An app I created with a colleague featuring back-end technologies (MongoDB, Express, Node.js, Handlebars), for broke travellers (story of my life..!)
+<br> Tech stack: MongoDB, Express.js, Node.js, Handlebars
 <br> Visit it: https://the-broke-globetrotter.adaptable.app/
 
 <br>
 
 - Partymates | A full-stack MERN sort of social media app I created to connect people so they can travel to festivals together 
+<br> Tech stack: MongoDB, Express.js, React.js, Node.js, REST API (built by me) 
 <br> Visit it: https://partymates.netlify.app/
 
 <br>
