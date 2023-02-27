@@ -43,7 +43,7 @@ Feel free to take a look at my personal projects! <img src="./eyes-emoji.gif" wi
 
 - My personal portfolio website
 <br> Tech stack: React, SCSS/SASS
-<br> Visit it: https://portfolio-thomas-augot.netlify.app/
+<br> Visit it: https://thomasaugot.com/
 
 <br>
 
