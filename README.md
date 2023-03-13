@@ -48,6 +48,12 @@ Feel free to take a look at my personal projects! <img src="./eyes-emoji.gif" wi
 
 <br>
 
+- Farmhouse Table | Restaurant Website
+<br> Tech stack: React, SCSS/SASS, Typescript
+<br> Visit it: https://farmhouse-table.netlify.app/
+
+<br>
+
 - Pickle Rick shooting Game | My first coding project, a cool Javascript shooting game, kill the angry rats!
 <br> Tech stack: HTML, CSS, Javascript
 <br> Try it: https://pickle-rick-shooting-game.netlify.app/
