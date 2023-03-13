@@ -48,7 +48,7 @@ Feel free to take a look at my personal projects! <img src="./eyes-emoji.gif" wi
 
 <br>
 
-- Farmhouse Table | Restaurant Website
+- Farmhouse Table | A prototype of a restaurant website integrating Google Maps API as well as a reservation form
 <br> Tech stack: React, SCSS/SASS, Typescript
 <br> Visit it: https://farmhouse-table.netlify.app/
 
