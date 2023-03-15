@@ -24,6 +24,7 @@ I am building with:
 <div>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
+	<code><img height="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript" title="Typescript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
 	<code><img height="50" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67" alt="SASS" title="SASS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
