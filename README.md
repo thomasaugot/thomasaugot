@@ -49,6 +49,12 @@ Feel free to take a look at my personal projects! <img src="./eyes-emoji.gif" wi
 
 <br>
 
+- Todayzzz Todos | A simple drag & drop todo app to organize your daily tasks I built to practice Typescript
+<br> Tech stack: React, SCSS/SASS, Typescript
+<br> Visit it: https://todayzzz-todos.netlify.app/ 
+
+<br>
+
 - Farmhouse Table | A prototype of a restaurant website integrating Google Maps API as well as a reservation form
 <br> Tech stack: React, SCSS/SASS, Typescript
 <br> Visit it: https://farmhouse-table.netlify.app/
