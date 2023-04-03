@@ -1,8 +1,8 @@
-## Hi there <img src="./spongebob-hand-waving.gif" width="50" /> Welcome to my Github profile!			
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=300&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 -----
 
-My name is Thomas Augot, Junior Web Developer from France, living in Fuerteventura <img src="./island-palm-tree.gif" width="40" />
+I am Thomas, Junior Web Developer from France, living in Fuerteventura <img src="./island-palm-tree.gif" width="40" />
 
 I am currently looking for an entry-level position so if you landed here, hire me or spread the word !
 
