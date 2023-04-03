@@ -1,13 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=300&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&pause=300&center=false&vCenter=true&width=800&height=80&lines=Hi+there!+;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 -----
 
 I am Thomas, Junior Web Developer from France, living in Fuerteventura <img src="./island-palm-tree.gif" width="40" />
-
+	<br>
+	<br>
 I am currently looking for an entry-level position so if you landed here, hire me or spread the word !
-
-<p align="left">
-	Connect with me:	<br>
+	<br>
+	<br>
+	Connect with me:	
+	<br>
 	<a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="70" /></a>
 		<a href="mailto:thomas.augot@hotmail.fr"><img src="./outlooklogo.gif" width="70" /></a>
 
