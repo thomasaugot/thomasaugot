@@ -8,10 +8,9 @@ I am Thomas, Junior Web Developer from France, living in Fuerteventura <img src=
 I am currently looking for an entry-level position so if you landed here, hire me or spread the word !
 	<br>
 	<br>
-	Connect with me:	
-	<br>
-	<a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="70" /></a>
-		<a href="mailto:thomas.augot@hotmail.fr"><img src="./outlooklogo.gif" width="70" /></a>
+### Connect with me:
+<a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="70" /></a>
+<a href="mailto:thomas.augot@hotmail.fr"><img src="./outlooklogo.gif" width="70" /></a>
 
 </p>
 
@@ -19,7 +18,7 @@ I am currently looking for an entry-level position so if you landed here, hire m
 
 <br>
 
-My stats on Codewars: 
+### My stats on Codewars: 
 
 <br>
 
@@ -27,7 +26,7 @@ My stats on Codewars:
 
 <br>
 
-I am building with:
+### I am building with:
 
 <br>
 
@@ -49,7 +48,7 @@ I am building with:
 
 <br>
 
-Feel free to take a look at my personal projects! <img src="./eyes-emoji.gif" width="30" /> 
+### My projects:
 
 <br>
 
