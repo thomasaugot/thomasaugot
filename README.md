@@ -43,13 +43,6 @@ I am currently open for work so if you landed here, hire me or spread the word !
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />&nbsp;
 </div>
 
-### I am learning:
-
-<div>
-	<img height="44" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" alt="Redux" title="Redux" />&nbsp;
-	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/53930e5333c760ad46171e549fcd28e625d124b4/src/components/Curriculum/react-native.png" alt="React Native" title="React Native" />&nbsp;
-</div>
-
 <br>
 
 -----
