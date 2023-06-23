@@ -43,6 +43,12 @@ I am currently open for work so if you landed here, hire me or spread the word !
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />&nbsp;
 </div>
 
+### Native <br>
+
+<div>
+	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/ecb3abec1c3eb516eb1f8944fe1bcd9132af1e77/src/components/Curriculum/react-native.png" alt="React native" title="React native" />&nbsp;
+</div>
+
 <br>
 
 -----
