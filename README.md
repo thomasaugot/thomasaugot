@@ -27,7 +27,7 @@ I am currently open for work so if you landed here, hire me or spread the word !
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />&nbsp;
 	<img height="44" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript" title="Typescript" />&nbsp;
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />&nbsp;
-	<img height="44" src="https://camo.githubusercontent.com/c38bf4a44750bd9b576a2259a5074dd277d63f0a412b5b1f31f54e516711ef5b/687474703a2f2f736173732d6c616e672e636f6d2f6173736574732f696d672f7374796c6567756964652f7365616c2d636f6c6f722d61656630333534632e706e67" alt="SASS" title="SASS" />&nbsp;
+	<img height="44" src="https://avatars.githubusercontent.com/u/317889?s=200&v=4" alt="SASS" title="SASS" />&nbsp;
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/Tailwind_CSS.png?raw=true" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/MUI.png?raw=true" alt="Material UI" title="Material UI" />&nbsp;
