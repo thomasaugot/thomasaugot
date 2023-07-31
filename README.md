@@ -41,6 +41,7 @@ I am currently open for work so if you landed here, hire me or spread the word !
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" />&nbsp;
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" />&nbsp;
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />&nbsp;
+		<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/supabase.png?raw=true" alt="Supabase" title="Supabase" />&nbsp;
 </div>
 
 ### Native <br>
