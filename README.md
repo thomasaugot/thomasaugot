@@ -3,10 +3,13 @@
 
 -----
 
-I am Thomas, Full Stack Web Developer from France, living in Fuerteventura <img src="./island-palm-tree.gif" width="40" />
+I am Thomas, passionate Full Stack Web Developer from France, living in Fuerteventura <img src="./island-palm-tree.gif" width="40" />
 	<br>
 	<br>
 I am currently open to new opportunities so if you landed here, hire me or spread the word !
+	<br>
+	<br>
+I speak fluent French, English & Spanish 🙃 
 	<br>
 	<br>
 ### Connect with me:
@@ -42,6 +45,7 @@ I am currently open to new opportunities so if you landed here, hire me or sprea
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" />&nbsp;
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />&nbsp;
 		<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/supabase.png?raw=true" alt="Supabase" title="Supabase" />&nbsp;
+	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/firebase.png?raw=true" alt="Firebase" title="Firebase" />&nbsp;
 </div>
 
 ### Native <br>
