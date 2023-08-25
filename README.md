@@ -9,7 +9,7 @@ I am Thomas, passionate Full Stack Web Developer from France, living in Fuerteve
 I am currently open to new opportunities so if you landed here, hire me or spread the word !
 	<br>
 	<br>
-I speak fluent French, English & Spanish 🙃 
+I speak fluent French, English & Spanish (and some German too) 🙃 
 	<br>
 	<br>
 ### Connect with me:
