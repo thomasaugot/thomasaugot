@@ -52,7 +52,9 @@ I speak fluent French, English & Spanish (and some German too) 🙃
 
 <div>
 	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/ecb3abec1c3eb516eb1f8944fe1bcd9132af1e77/src/components/Curriculum/react-native.png" alt="React native" title="React native" />&nbsp;
-		<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
+	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
+	<img height="44" src="https://github.com/thomasaugot/thomasaugot/assets/117474095/524b3207-b093-4855-8f8e-ba70e21f8e5a" alt="Xcode" title="Xcode" />&nbsp;
+	<img height="44" src="https://github.com/thomasaugot/thomasaugot/assets/117474095/8cf59e4c-60aa-4190-9c38-9065fc393072" alt="Android Studio" title="Android Studio" />&nbsp;
 </div>
 
 <br>
