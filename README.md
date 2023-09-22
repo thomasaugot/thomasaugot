@@ -3,7 +3,7 @@
 
 -----
 
-I am Thomas, passionate Full Stack Web & Mobile Developer from France, living in Fuerteventura <img src="./island-palm-tree.gif" width="40" />
+I am Thomas, passionate Full Stack Web & Mobile Developer from Nantes, France.
 	<br>
 	<br>
 I am currently open to new opportunities so if you landed here, hire me or spread the word !
