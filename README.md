@@ -3,10 +3,10 @@
 
 -----
 
-I am Thomas, passionate Full Stack Web & Mobile Developer from Nantes, France.
+I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
 	<br>
 	<br>
-I am currently open to new opportunities so if you landed here, hire me or spread the word !
+I am currently open to new opportunities so if you landed here, hire me or spread the word!
 	<br>
 	<br>
 I speak fluent French, English & Spanish (and some German too) 🙃 
@@ -48,6 +48,12 @@ I speak fluent French, English & Spanish (and some German too) 🙃
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/firebase.png?raw=true" alt="Firebase" title="Firebase" />&nbsp;
 </div>
 
+### Testing <br>
+
+<div>
+	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/jest.png?raw=true" alt="Jest" title="Jest" />&nbsp;
+</div>
+
 ### Native <br>
 
 <div>
@@ -61,4 +67,4 @@ I speak fluent French, English & Spanish (and some German too) 🙃
 
 -----
 
-Check out my portfolio at https://thomasaugot.com/
+Check out my portfolio at https://thomasaugot.com/ and my blog at https://thomasaugot.com/blog
