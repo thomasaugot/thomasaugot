@@ -48,12 +48,6 @@ I speak fluent French, English & Spanish (and some German too) 🙃
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/firebase.png?raw=true" alt="Firebase" title="Firebase" />&nbsp;
 </div>
 
-### Testing <br>
-
-<div>
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/jest.png?raw=true" alt="Jest" title="Jest" />&nbsp;
-</div>
-
 ### Native <br>
 
 <div>
@@ -64,6 +58,12 @@ I speak fluent French, English & Spanish (and some German too) 🙃
 </div>
 
 <br>
+
+-----
+
+### GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 -----
 
