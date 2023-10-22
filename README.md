@@ -7,7 +7,6 @@
 		<br>
 		Besides Javascript, I speak fluent French, English & Spanish (and some German too) 🙃 
 	</p>
-		<br>
  
 ## Connect with me:
 <a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" /></a>
