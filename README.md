@@ -38,7 +38,7 @@
 </div>
 <br>
 
-### GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=react)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=react&include_all_commits=true&count_private=true&layout=compact)
 --------
