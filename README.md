@@ -39,8 +39,8 @@
 <br>
 
 ### GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=transparent_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=transparent_border=false&include_all_commits=true&count_private=true&layout=compact)
 --------
 
 Check out my portfolio at https://thomasaugot.com/ and my blog at https://thomasaugot.com/blog
