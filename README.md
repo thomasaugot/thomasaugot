@@ -14,7 +14,7 @@
 
 </p>
 
-## 🔧 Tech stack:
+##  🛠 Tech stack:
 <div>
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />&nbsp;
@@ -48,10 +48,8 @@ Check out my portfolio at https://thomasaugot.com/ and my blog at https://thomas
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
-<!-- BLOG-POST-LIST:START -->
 - [Optimizing Performance in React Native](https://thomasaugot.com/blog/optimizing-performance-in-react-native)
 - [Save yourself hours of coding with these CSS generators](https://thomasaugot.com/blog/save-yourself-hours-of-coding-with-these-CSS-generators)
-<!-- BLOG-POST-LIST:END -->
 
 </details>
 <details>
@@ -62,7 +60,7 @@ Check out my portfolio at https://thomasaugot.com/ and my blog at https://thomas
 </details>
 
 <details>
-    <summary>&#127943 <b>Personal Projects</b></summary><br/>
+    <summary>👨‍💻 <b>Personal Projects</b></summary><br/>
 
 - Javascript Shooting Game, Rick vs Rats <br> Repo: https://github.com/thomasaugot/project-js-shooting-game , Demo: https://pickle-rick-shooting-game.netlify.app/
 - Partymates <br> Repo client: https://github.com/thomasaugot/app-partymates-client , Repo server: https://github.com/thomasaugot/app-partymates-server , Demo: https://partymates.netlify.app/
