@@ -3,7 +3,7 @@
 	<p>
 		🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
 		<br>
-		💼 I am currently working on Osly Solutions' mobile app & Eurafrique's website
+		💼 I am currently working on Osly Solutions' mobile app, Eurafrique's website & my personal blog
 		<br>
 		💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too) 
 	</p>
