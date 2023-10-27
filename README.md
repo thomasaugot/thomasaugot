@@ -48,8 +48,8 @@ Check out my portfolio at https://thomasaugot.com/ and my blog at https://thomas
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
+- [Supabase in React/React Native: The Basics](https://thomasaugot.com/blog/supabase-in-react-react-native-the-basics) 
 - [Optimizing Performance in React Native](https://thomasaugot.com/blog/optimizing-performance-in-react-native)
-- [Save yourself hours of coding with these CSS generators](https://thomasaugot.com/blog/save-yourself-hours-of-coding-with-these-CSS-generators)
 
 </details>
 <details>
