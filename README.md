@@ -48,11 +48,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=react)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=react&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 ## Check out my portfolio website:
 
-<a href="https://thomasaugot.com/" target="_blank">https://thomasaugot.com/</a>
+https://thomasaugot.com/
 
 ## Don't miss my blog articles, and follow me!
 
