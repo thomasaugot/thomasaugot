@@ -48,6 +48,7 @@ Check out my portfolio at https://thomasaugot.com/ and my blog at https://thomas
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
+- [Making My React Native App More Secure in 2023](https://thomasaugot.com/blog/making-my-react-native-app-more-secure-in-2023)
 - [Supabase in React/React Native: The Basics](https://thomasaugot.com/blog/supabase-in-react-react-native-the-basics) 
 - [Optimizing Performance in React Native](https://thomasaugot.com/blog/optimizing-performance-in-react-native)
 
