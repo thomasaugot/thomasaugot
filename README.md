@@ -1,20 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=800&random=false&width=835&height=45&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg) 
-	<img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="160" align="right" align="top"/>
-	<p>
-		🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
-		<br>
-		💼 I am currently working on Osly Solutions' mobile app, Eurafrique's website & my personal blog
-		<br>
-		💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too) 
-	</p>
- 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=800&random=false&width=835&height=45&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="160" align="right" align="top"/>
+
+<p>
+🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
+<br>
+💼 I am currently working on Osly Solutions' mobile app, Eurafrique's website & my personal blog
+<br>
+💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
+</p>
+
 ## Connect with me:
+
 <a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" /></a>
 <a href="mailto:thomas.augot@hotmail.fr"><img src="./outlooklogo.gif" width="60" /></a>
 
 </p>
 
-##  🛠 Tech stack:
+## 🛠 Tech stack:
+
 <div>
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />&nbsp;
@@ -39,23 +44,25 @@
 <br>
 
 ## GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=react)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=react&include_all_commits=true&count_private=true&layout=compact)
---------
 
-## Check out my portfolio
+---
+
+## Check out my portfolio website:
 
 <a href="https://thomasaugot.com/" target="_blank">https://thomasaugot.com/</a>
 
-## Don't miss my blog articles, and follow me! 
+## Don't miss my blog articles, and follow me!
 
-<a href="https://medium.com/@thomasaugot" target="_blank"><img src="https://github.com/thomasaugot/thomasaugot/assets/117474095/c5994fff-2025-450c-8d67-f512fb57025d" width="60" /></a>
+<a href="https://medium.com/@thomasaugot" target="_blank"><img src="./Medium.gif" width="80" /></a>
 
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
 - [Making My React Native App More Secure in 2023](https://thomasaugot.com/blog/making-my-react-native-app-more-secure-in-2023)
-- [Supabase in React/React Native: The Basics](https://thomasaugot.com/blog/supabase-in-react-react-native-the-basics) 
+- [Supabase in React/React Native: The Basics](https://thomasaugot.com/blog/supabase-in-react-react-native-the-basics)
 - [Optimizing Performance in React Native](https://thomasaugot.com/blog/optimizing-performance-in-react-native)
 
 </details>
