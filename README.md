@@ -43,7 +43,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=react&include_all_commits=true&count_private=true&layout=compact)
 --------
 
-Check out my portfolio at https://thomasaugot.com/ and my blog at https://thomasaugot.com/blog
+## Check out my portfolio
+
+<a href="https://thomasaugot.com/" target="_blank">https://thomasaugot.com/</a>
+
+## Don't miss my blog articles, and follow me! 
+
+<a href="https://medium.com/@thomasaugot" target="_blank"><img src="https://github.com/thomasaugot/thomasaugot/assets/117474095/c5994fff-2025-450c-8d67-f512fb57025d" width="60" /></a>
 
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
