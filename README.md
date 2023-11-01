@@ -1,6 +1,6 @@
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=800&random=false&width=835&height=45&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="160" align="right" align="top"/>
 
 <p>
