@@ -1,6 +1,6 @@
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=800&random=false&width=835&height=45&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="160" align="right" align="top"/>
 
 <p>
@@ -49,11 +49,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=react)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=react&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 ## Check out my portfolio website:
 
-<a href="https://thomasaugot.com/" target="_blank">https://thomasaugot.com/</a>
+https://thomasaugot.com/
 
 ## Don't miss my blog articles, and follow me!
 
@@ -62,9 +60,8 @@
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
-- [Making My React Native App More Secure in 2023](https://thomasaugot.com/blog/making-my-react-native-app-more-secure-in-2023)
-- [Supabase in React/React Native: The Basics](https://thomasaugot.com/blog/supabase-in-react-react-native-the-basics)
-- [Optimizing Performance in React Native](https://thomasaugot.com/blog/optimizing-performance-in-react-native)
+- [Offline Mode in React Native with AsyncStorage](https://medium.com/@thomasaugot/offline-mode-in-react-native-with-asyncstorage-8140532212d9)
+- [Making My React Native App More Secure in 2023](https://medium.com/@thomasaugot/making-my-react-native-app-more-secure-in-2023-47a92fed2a49)
 
 </details>
 <details>
