@@ -60,6 +60,7 @@ https://thomasaugot.com/
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
+- [Crafting a Stylish Dark Mode in React & SCSS using Context API](https://medium.com/@thomasaugot/crafting-a-stylish-dark-mode-in-react-scss-using-context-api-code-included-4868ff358e94)
 - [Offline Mode in React Native with AsyncStorage](https://medium.com/@thomasaugot/offline-mode-in-react-native-with-asyncstorage-8140532212d9)
 - [Making My React Native App More Secure in 2023](https://medium.com/@thomasaugot/making-my-react-native-app-more-secure-in-2023-47a92fed2a49)
 
@@ -72,7 +73,7 @@ https://thomasaugot.com/
 </details>
 
 <details>
-    <summary>👨‍💻 <b>Latest Projects</b></summary><br/>
+    <summary>👨‍💻 <b>Latest Personal Projects</b></summary><br/>
 
 - Todayzzz todos <br> Repo client: https://github.com/thomasaugot/typescript-todo-app-frontend , Repo server: https://github.com/thomasaugot/ts-todo-app-backend , Demo: https://todayzzz-todos.netlify.app/
 - Kingpad <br> Repo: https://github.com/thomasaugot/kp-next.js , Demo: https://kingpad-v1-1-new-figma.vercel.app/
