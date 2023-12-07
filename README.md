@@ -6,7 +6,8 @@
 <p>
 🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
 <br>
-💼 I am currently working on a client's showcase website, Eurafrique's website & my blog articles.
+💼 In addition to my current role as a Software Developer Intern at Nau Bank, I am engaged in developing a showcase website for a client, working on Eurafrique's website, and creating content for my blog articles.
+
 <br>
 💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
 </p>
@@ -60,7 +61,7 @@ https://thomasaugot.com/
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
-- [Crafting a Stylish Dark Mode in React & SCSS using Context API](https://medium.com/@thomasaugot/crafting-a-stylish-dark-mode-in-react-scss-using-context-api-code-included-4868ff358e94)
+- [Implement a Dark Mode in React & SCSS using Context API](https://medium.com/@thomasaugot/crafting-a-stylish-dark-mode-in-react-scss-using-context-api-code-included-4868ff358e94)
 - [Offline Mode in React Native with AsyncStorage](https://medium.com/@thomasaugot/offline-mode-in-react-native-with-asyncstorage-8140532212d9)
 - [Making My React Native App More Secure in 2023](https://medium.com/@thomasaugot/making-my-react-native-app-more-secure-in-2023-47a92fed2a49)
 
