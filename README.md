@@ -31,8 +31,8 @@
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/Tailwind_CSS.png?raw=true" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/MUI.png?raw=true" alt="Material UI" title="Material UI" />&nbsp;
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/nextjs.png?raw=true" alt="Next.JS" title="Next.JS" />&nbsp;<br>
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />&nbsp;
+	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/nextjs.png?raw=true" alt="Next.JS" title="Next.JS" />&nbsp;
+	<img height="44" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />&nbsp;<br>
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" />&nbsp;
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" />&nbsp;
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />&nbsp;
@@ -42,6 +42,7 @@
 	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/ecb3abec1c3eb516eb1f8944fe1bcd9132af1e77/src/components/Curriculum/react-native.png" alt="React native" title="React native" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/jest.png?raw=true" alt="Jest" title="Jest" />&nbsp;
+	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/9722e6da063c83238479234339055fd7a2c38345/src/components/Curriculum/flutterflow.png?raw=true" alt="Flutterflow" title="Flutterflow" />&nbsp;
 </div>
 <br>
 
