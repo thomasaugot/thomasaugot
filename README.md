@@ -6,7 +6,7 @@
 <p>
 🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
 <br>
-💼 In addition to my current role as a Software Developer Intern at Nau Bank, I am engaged in developing a showcase website for a client, working on Eurafrique's website, and creating content for my blog articles.
+💼 In addition to my current role as a Software Developer Intern at Nau Bank, I am engaged in developing a showcase website for a client, and creating content for my blog articles.
 
 <br>
 💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
