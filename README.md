@@ -6,7 +6,7 @@
 <p>
 🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
 <br>
-💼 In addition to my current role as a Software Developer Intern at Nau Bank, I always work on side projects and enjoy creating content for my blog articles (available on Medium).
+💼 In addition to my current role as a Software Developer Intern at Nau Bank/Frigate, I always work on side projects and enjoy creating content for my blog articles (available on Medium).
 
 <br>
 💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
@@ -62,9 +62,9 @@ https://thomasaugot.com/
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
+- [Make your website Multilingual with react-i18next](https://medium.com/@thomasaugot/make-your-website-multilingual-with-react-i18next-4b247bb651a0)
 - [Adding Personality with Custom Fonts: Using Local Fonts in Next.js and Tailwind CSS](https://medium.com/@thomasaugot/adding-personality-with-custom-fonts-using-local-fonts-in-next-js-and-tailwind-css-ea9b30bb6099)
 - [Implement a Dark Mode in React & SCSS using Context API](https://medium.com/@thomasaugot/crafting-a-stylish-dark-mode-in-react-scss-using-context-api-code-included-4868ff358e94)
-- [Offline Mode in React Native with AsyncStorage](https://medium.com/@thomasaugot/offline-mode-in-react-native-with-asyncstorage-8140532212d9)
 
 </details>
 <details>
