@@ -7,7 +7,8 @@
 🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
 <br>
 💼 In addition to my current role as a Software Developer Intern at Nau Bank/Frigate, I always work on side projects and enjoy creating content for my blog articles (available on Medium).
-
+<br>
+🌱 I am currently learning Angular
 <br>
 💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
 </p>
