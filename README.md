@@ -2,15 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="160" align="right" align="top"/>
+<img src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular_renaissance.png" width="160" align="right" align="top"/>
 
 <p>
 🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
 <br>
-💼 In addition to my current role as a Software Developer Intern at Nau Bank/Frigate, I always work on side projects and enjoy creating content for my blog articles (available on Medium).
+💼 In addition to my current role as a Software Developer Intern at Frigate, I always work on side projects and enjoy creating content for my blog articles (available on Medium).
 <br>
 🌱 I am currently learning Angular
 <br>
-💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
+💬 Besides Javascript, I speak fluent French, English & Spanish.
 </p>
 
 ## Connect with me:
