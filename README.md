@@ -45,6 +45,7 @@
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/jest.png?raw=true" alt="Jest" title="Jest" />&nbsp;
 	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/9722e6da063c83238479234339055fd7a2c38345/src/components/Curriculum/flutterflow.png?raw=true" alt="Flutterflow" title="Flutterflow" />&nbsp;
+	<img height="44" src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular_renaissance.png?raw=true" alt="Angular" title="Angular" />&nbsp;
 </div>
 <br>
 
