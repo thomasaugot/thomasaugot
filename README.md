@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" align="top"/>
-<img src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular_renaissance.png" width="120" align="right" align="top"/>
+<img src="./angular-logo.png" width="120" align="right" align="top"/>
 
 <p>
 🌈 I am Thomas, a passionate Full Stack Web and Mobile Developer from Nantes, France.
@@ -45,7 +45,7 @@
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/components/Curriculum/jest.png?raw=true" alt="Jest" title="Jest" />&nbsp;
 	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/9722e6da063c83238479234339055fd7a2c38345/src/components/Curriculum/flutterflow.png?raw=true" alt="Flutterflow" title="Flutterflow" />&nbsp;
-	<img height="44" src="https://github.com/angular/angular/raw/main/aio/src/assets/images/logos/angular/angular_renaissance.png?raw=true" alt="Angular" title="Angular" />&nbsp;
+	<img height="44" src="./angular-logo.png" alt="Angular" title="Angular" />&nbsp;
 </div>
 <br>
 
