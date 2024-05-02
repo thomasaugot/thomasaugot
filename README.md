@@ -78,8 +78,10 @@ https://thomasaugot.com/
 </details>
 
 <details>
-    <summary>👨‍💻 <b>Latest Personal Projects</b></summary><br/>
+    <summary>👨‍💻 <b>My Projects</b></summary><br/>
 
+** This list doesn't include projects for which I am not the owner of the rights **
+- Charpente Menuiserie Durand <br> Repo client: https://github.com/thomasaugot/charpente-menuiserie-durand , Demo: https://www.cmdurand.fr/
 - Todayzzz todos <br> Repo client: https://github.com/thomasaugot/typescript-todo-app-frontend , Repo server: https://github.com/thomasaugot/ts-todo-app-backend , Demo: https://todayzzz-todos.netlify.app/
 - Kingpad <br> Repo: https://github.com/thomasaugot/kp-next.js , Demo: https://kingpad-v1-1-new-figma.vercel.app/
 - Farmhouse Table <br> Repo: https://github.com/thomasaugot/farmhouse-table-website , Demo: https://farmhouse-table.netlify.app/
