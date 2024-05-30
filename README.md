@@ -6,9 +6,9 @@
 <p>
 🌈 I am Thomas, a passionate Software Developer from Nantes, France.
 <br>
-💼 In addition to my current role as a Software Developer Intern at Frigate, I always work on side projects and enjoy creating content for my blog articles (available on Medium).
+💼 In addition to my current role as a Software Developer at Frigate, I am working on my first e-commerce website.
 <br>
-🌱 I am currently learning Redux
+🌱 I am currently learning Redux & Vite
 <br>
 💬 Besides Javascript, I speak fluent French, English & Spanish.
 </p>
