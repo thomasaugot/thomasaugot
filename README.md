@@ -6,7 +6,7 @@
 <p>
 🌈 I am Thomas, a passionate Software Developer from Nantes, France.
 <br>
-💼 In addition to my current role as a Software Developer at Frigate, I am working on my first e-commerce website.
+💼 In addition to my current position at Frigate, I am working on my first e-commerce website.
 <br>
 🌱 I am currently learning Redux & Vite
 <br>
