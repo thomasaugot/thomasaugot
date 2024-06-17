@@ -4,13 +4,13 @@
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" align="top"/>
 
 <p>
-🌈 I am Thomas, a passionate Software Developer from Nantes, France.
+🌈 I am Thomas, a passionate Software Developer from France.
 <br>
 💼 In addition to my current position at Frigate, I am working on my first e-commerce website.
 <br>
-🌱 I am currently learning Redux & Vite
+🌱 I am currently learning Redux
 <br>
-💬 Besides Javascript, I speak fluent French, English & Spanish.
+💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
 </p>
 
 ## Connect with me:
@@ -44,6 +44,7 @@
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/jest.png?raw=true?raw=true" alt="Jest" title="Jest" />&nbsp;
 	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/9722e6da063c83238479234339055fd7a2c38345/src/components/Curriculum/flutterflow.png?raw=true" alt="Flutterflow" title="Flutterflow" />&nbsp;
+		<img height="44" src="./vite.png" alt="Vite" title="Vite" />&nbsp;
 </div>
 <br>
 
@@ -63,9 +64,10 @@ https://thomasaugot.com/
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
-- [Make your website Multilingual with react-i18next](https://medium.com/@thomasaugot/make-your-website-multilingual-with-react-i18next-4b247bb651a0)
-- [Adding Personality with Custom Fonts: Using Local Fonts in Next.js and Tailwind CSS](https://medium.com/@thomasaugot/adding-personality-with-custom-fonts-using-local-fonts-in-next-js-and-tailwind-css-ea9b30bb6099)
-- [Implement a Dark Mode in React & SCSS using Context API](https://medium.com/@thomasaugot/crafting-a-stylish-dark-mode-in-react-scss-using-context-api-code-included-4868ff358e94)
+- [How to Start Scroll at Bottom in React](https://medium.com/@thomasaugot/how-to-start-scroll-at-bottom-in-react-901ba21cd720)
+- [.dotenv Environment Variables in Next.JS Not Found: The Solution](https://medium.com/javascript-in-plain-english/dotenv-environment-variables-in-next-js-not-found-the-solution-7edf248c06be)
+- [Adding Zoom Functionality to an Image Viewer in React/Next.JS](https://medium.com/@thomasaugot/adding-zoom-functionality-to-an-image-viewer-in-react-next-js-4621be8eb770)
+- & more at https://medium.com/@thomasaugot
 
 </details>
 <details>
@@ -79,6 +81,8 @@ https://thomasaugot.com/
     <summary>👨‍💻 <b>My Projects</b></summary><br/>
 
 ** This list doesn't include projects for which I am not the owner of the rights **
+
+- Wave Rider | Surf Shop <br> Repo client: https://github.com/thomasaugot/wave-rider-ecommerce , Demo: https://wave-riders-ecommerce.vercel.app/
 - Charpente Menuiserie Durand <br> Repo client: https://github.com/thomasaugot/charpente-menuiserie-durand , Demo: https://www.cmdurand.fr/
 - Todayzzz todos <br> Repo client: https://github.com/thomasaugot/typescript-todo-app-frontend , Repo server: https://github.com/thomasaugot/ts-todo-app-backend , Demo: https://todayzzz-todos.netlify.app/
 - Kingpad <br> Repo: https://github.com/thomasaugot/kp-next.js , Demo: https://kingpad-v1-1-new-figma.vercel.app/
