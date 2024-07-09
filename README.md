@@ -30,6 +30,7 @@
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />&nbsp;
 	<img height="44" src="https://avatars.githubusercontent.com/u/317889?s=200&v=4" alt="SASS" title="SASS" />&nbsp;
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />&nbsp;
+	<img height="44" src="./redux-logo.png" alt="Redux" title="Redux" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/Tailwind_CSS.png?raw=true?raw=true" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/MUI.png?raw=true?raw=true" alt="Material UI" title="Material UI" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/nextjs.png?raw=true?raw=true" alt="Next.JS" title="Next.JS" />&nbsp;
