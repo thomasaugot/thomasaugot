@@ -8,7 +8,7 @@
 <br>
 💼 In addition to my current position at Frigate, I am working on my first e-commerce website.
 <br>
-🌱 I am currently learning Redux
+🌱 I am currently learning ThreeJS
 <br>
 💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
 </p>
