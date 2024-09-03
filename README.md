@@ -6,7 +6,7 @@
 <p>
 🌈 I am Thomas, a passionate Software Developer from France.
 <br>
-💼 In addition to my current position at Frigate, I am working on my new 3D portfolio website.
+💼 In addition to my current position at Frigate, I am working on the backend of Wave Rider Surf Shop, an e-commerce website I built just for fun 😎
 <br>
 🌱 I am currently learning ThreeJS
 <br>
