@@ -6,7 +6,7 @@
 <p>
 🌈 I am Thomas, a passionate Software Developer from France.
 <br>
-💼 In addition to my current position at Frigate, I am working on the backend of my Todayzzz Todos, a todo app I built just for fun 😎
+💼 In addition to my current position at Frigate, I am working on the backend of Todayzzz Todos, a todo app I built just for fun 😎
 <br>
 🌱 I am currently learning ThreeJS
 <br>
