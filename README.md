@@ -4,14 +4,13 @@
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" align="top"/>
 
 <p>
-🌈 I am Thomas, a passionate Software Developer from France.
-<br>
-💼 In addition to my current position at Frigate, I am working on my first e-commerce website.
-<br>
-🌱 I am currently learning Redux
-<br>
-💬 Besides Javascript, I speak fluent French, English & Spanish (and some German too)
-</p>
+🌈 I am a French software developer living in the sunny Las Palmas de Gran Canaria 🌴. 
+<br/>
+☀️ When I'm not coding, you’ll find me on the beach or blasting hardstyle music 🎧. 
+<br/>
+🌱 I enjoy creating cool stuff with JavaScript and working on projects that push me to learn and grow.
+<br/>
+💬 I speak French, English, and Spanish
 
 ## Connect with me:
 
