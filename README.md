@@ -64,9 +64,9 @@ https://thomasaugot.com/
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
+- [Fetch or Axios: What is the Difference and When Should You Use Each?](https://medium.com/@thomasaugot/fetch-or-axios-what-is-the-difference-and-when-should-you-use-each-eb175a902ec1)
 - [How to Start Scroll at Bottom in React](https://medium.com/@thomasaugot/how-to-start-scroll-at-bottom-in-react-901ba21cd720)
 - [.dotenv Environment Variables in Next.JS Not Found: The Solution](https://medium.com/javascript-in-plain-english/dotenv-environment-variables-in-next-js-not-found-the-solution-7edf248c06be)
-- [Adding Zoom Functionality to an Image Viewer in React/Next.JS](https://medium.com/@thomasaugot/adding-zoom-functionality-to-an-image-viewer-in-react-next-js-4621be8eb770)
 - & more at https://medium.com/@thomasaugot
 
 </details>
