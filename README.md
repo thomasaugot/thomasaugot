@@ -43,8 +43,9 @@
 	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/ecb3abec1c3eb516eb1f8944fe1bcd9132af1e77/src/components/Curriculum/react-native.png" alt="React native" title="React native" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/jest.png?raw=true?raw=true" alt="Jest" title="Jest" />&nbsp;
-	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/9722e6da063c83238479234339055fd7a2c38345/src/components/Curriculum/flutterflow.png?raw=true" alt="Flutterflow" title="Flutterflow" />&nbsp;
-		<img height="44" src="./vite.png" alt="Vite" title="Vite" />&nbsp;
+	<img height="36" src="./php-logo.webp" alt="PHP" title="PHP" />&nbsp;
+	<img height="44" src="./vite.png" alt="Vite" title="Vite" />&nbsp;
+	<img height="36" src="./aws-logo.webp" alt="AWS" title="AWS" />&nbsp;
 </div>
 <br>
 
@@ -64,6 +65,7 @@ https://thomasaugot.com/
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
+- [AWS for Beginners: Exploring Cloud Services](https://medium.com/@thomasaugot/aws-for-beginners-exploring-cloud-services-b488442c5d93)
 - [How to Start Scroll at Bottom in React](https://medium.com/@thomasaugot/how-to-start-scroll-at-bottom-in-react-901ba21cd720)
 - [.dotenv Environment Variables in Next.JS Not Found: The Solution](https://medium.com/javascript-in-plain-english/dotenv-environment-variables-in-next-js-not-found-the-solution-7edf248c06be)
 - [Adding Zoom Functionality to an Image Viewer in React/Next.JS](https://medium.com/@thomasaugot/adding-zoom-functionality-to-an-image-viewer-in-react-next-js-4621be8eb770)
@@ -80,7 +82,7 @@ https://thomasaugot.com/
 <details>
     <summary>👨‍💻 <b>My Projects</b></summary><br/>
 
-** This list doesn't include projects for which I am not the owner of the rights **
+** This list doesn't include projects for which I am not the owner of the rights and some others I am definitely not very proud of 🤭**
 
 - Wave Rider | Surf Shop <br> Repo client: https://github.com/thomasaugot/wave-rider-ecommerce , Demo: https://wave-riders-ecommerce.vercel.app/
 - Charpente Menuiserie Durand <br> Repo client: https://github.com/thomasaugot/charpente-menuiserie-durand , Demo: https://www.cmdurand.fr/
@@ -88,7 +90,4 @@ https://thomasaugot.com/
 - Kingpad <br> Repo: https://github.com/thomasaugot/kp-next.js , Demo: https://kingpad-v1-1-new-figma.vercel.app/
 - Farmhouse Table <br> Repo: https://github.com/thomasaugot/farmhouse-table-website , Demo: https://farmhouse-table.netlify.app/
 - Javascript Shooting Game, Rick vs Rats <br> Repo: https://github.com/thomasaugot/project-js-shooting-game , Demo: https://pickle-rick-shooting-game.netlify.app/
-- Partymates <br> Repo client: https://github.com/thomasaugot/app-partymates-client , Repo server: https://github.com/thomasaugot/app-partymates-server , Demo: https://partymates.netlify.app/
-- The Broke Globetrotter <br> Repo: https://github.com/project-web-app-cities/the-broke-globetrotter , Demo: https://the-broke-globetrotter.adaptable.app/
-
 </details>
