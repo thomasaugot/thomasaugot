@@ -68,7 +68,6 @@ https://thomasaugot.com/
 - [AWS for Beginners: Exploring Cloud Services](https://medium.com/@thomasaugot/aws-for-beginners-exploring-cloud-services-b488442c5d93)
 - [How to Start Scroll at Bottom in React](https://medium.com/@thomasaugot/how-to-start-scroll-at-bottom-in-react-901ba21cd720)
 - [.dotenv Environment Variables in Next.JS Not Found: The Solution](https://medium.com/javascript-in-plain-english/dotenv-environment-variables-in-next-js-not-found-the-solution-7edf248c06be)
-- [Adding Zoom Functionality to an Image Viewer in React/Next.JS](https://medium.com/@thomasaugot/adding-zoom-functionality-to-an-image-viewer-in-react-next-js-4621be8eb770)
 - & more at https://medium.com/@thomasaugot
 
 </details>
