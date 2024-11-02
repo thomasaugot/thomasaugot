@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" align="top"/>
 
 <p>
-🌈 I am a French software developer living in the sunny Las Palmas de Gran Canaria 🌴. 
+🌈 I am a French full stack developer living in the sunny Las Palmas de Gran Canaria 🌴. 
 <br/>
 ☀️ When I'm not coding, you’ll find me on the beach or blasting hardstyle music 🎧. 
 <br/>
@@ -43,9 +43,9 @@
 	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/ecb3abec1c3eb516eb1f8944fe1bcd9132af1e77/src/components/Curriculum/react-native.png" alt="React native" title="React native" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
 	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/jest.png?raw=true?raw=true" alt="Jest" title="Jest" />&nbsp;
-	<img height="36" src="./php-logo.webp" alt="PHP" title="PHP" />&nbsp;
+	<img height="44" src="./php.webp" alt="PHP" title="PHP" />&nbsp;
 	<img height="44" src="./vite.png" alt="Vite" title="Vite" />&nbsp;
-	<img height="36" src="./aws-logo.webp" alt="AWS" title="AWS" />&nbsp;
+	<img height="48" src="./aws.webp" alt="AWS" title="AWS" />&nbsp;
 </div>
 <br>
 
