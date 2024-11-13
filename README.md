@@ -1,16 +1,24 @@
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I'm+Thomas%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I+am+Thomas%2C;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" align="top"/>
+## 🌈 About Me
 
-<p>
-🌈 I am a French full stack developer living in the sunny Las Palmas de Gran Canaria 🌴. 
-<br/>
-☀️ When I'm not coding, you’ll find me on the beach or blasting hardstyle music 🎧. 
-<br/>
-🌱 I enjoy creating cool stuff with JavaScript and working on projects that push me to learn and grow.
-<br/>
-💬 I speak French, English, and Spanish
+Hi! I'm **Thomas**, a passionate French developer currently enjoying the sunny vibes of **Las Palmas de Gran Canaria** 🌴.  
+When I'm not writing code, you'll probably catch me on the beach or blasting some **hardstyle music** 🎧. 
+
+## 💻 What I Do
+
+I specialize in **Frontend Development**, with a focus on **React.js**, **Next.js**, and other modern web technologies.  
+I love experimenting with new stacks and am always keen to learn new skills.
+
+## 🌍 Languages I Speak
+- **French** (native)
+- **English** (fluent)
+- **Spanish** (fluent)
+- and of course, fluent **Javascript**!
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 🚀
+
 
 ## Connect with me:
 
@@ -19,7 +27,7 @@
 
 </p>
 
-## 🛠 Tech stack:
+## 🛠 Tools I have worked with:
 
 <div>
 	<img height="44" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
