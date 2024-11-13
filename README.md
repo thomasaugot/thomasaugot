@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I'm+Thomas%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
-## 🌈 About Me
-
-Hi! I'm **Thomas**, a passionate French developer currently enjoying the sunny vibes of **Las Palmas de Gran Canaria** 🌴.  
+🌈 I'm **Thomas**, a French developer enjoying the sunny vibes of **Las Palmas de Gran Canaria** 🌴.  
 When I'm not writing code, you'll probably catch me on the beach or blasting some **hardstyle music** 🎧. 
 
 ## 💻 What I Do
