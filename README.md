@@ -1,19 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I'm+Thomas%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
-🌈 I'm **Thomas**, a French developer enjoying the sunny vibes of **Las Palmas de Gran Canaria** 🌴.  
-When I'm not writing code, you'll probably catch me on the beach or blasting some **hardstyle music** 🎧. 
+🌈 I'm **Thomas**, a French full stack developer enjoying the sunny vibes of **Las Palmas de Gran Canaria** 🌴.  
+When I'm not writing code, you'll probably catch me on the beach or blasting some hardstyle music 🎧. 
 
 ## 💻 What I Do
 
-I specialize in **Frontend Development**, with a focus on **React.js**, **Next.js**, and other modern web technologies.  
+I specialize in **Frontend Development**, with a focus on **React.js**, **Next.js**, **Tailwind** and other modern web technologies.  
 I love experimenting with new stacks and am always keen to learn new skills.
 
 ## 🌍 Languages I Speak
 - **French** (native)
 - **English** (fluent)
 - **Spanish** (fluent)
-- and of course, fluent **Javascript**!
+- and of course, **Javascript** :)
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 🚀
 
