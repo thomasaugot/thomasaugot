@@ -24,8 +24,6 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
   </a>
 </p>
 
-<br>
-
 ## GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=react)<br/>
