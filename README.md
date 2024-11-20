@@ -1,22 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I'm+Thomas%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
-🌈 I'm **Thomas**, a French full stack developer enjoying the sunny vibes of **Las Palmas de Gran Canaria** 🌴.  
-When I'm not writing code, you'll probably catch me on the beach or blasting some hardstyle music 🎧. 
-
-## 💻 What I Do
-
-I specialize in **Frontend Development**, with a focus on **React.js**, **Next.js**, **Tailwind** and other modern web technologies.  
-I love experimenting with new stacks and am always keen to learn new skills.
-
-## 🌍 Languages I Speak
-- **French** (native)
-- **English** (fluent)
-- **Spanish** (fluent)
-- and of course, **Javascript** :)
+Full Stack Developer from France, currently enjoying the sunny life in Las Palmas de Gran Canaria 🌴
+- 👨‍💻 Frontend specialist (JS, React, Next.js, Tailwind)
+- 🗣️ Fluent in French, English, Spanish
+- 🌎 Globetrotter, beach lover & hardstyle addict
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 🚀
 
+### [➤ Check Out My Portfolio](https://thomasaugot.com)
 
 ## Connect with me:
 
@@ -25,34 +17,13 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 </p>
 
-## 🛠 Tools I have worked with:
+## 🛠 My ever-expanding tech stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,ts,react,next,redux,tailwind,sass,nodejs,express,mongodb,postgres,supabase,aws,firebase,vite,jest,threejs" />
+  </a>
+</p>
 
-<div>
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" />
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" />&nbsp;
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />&nbsp;
-	<img height="44" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="Typescript" title="Typescript" />&nbsp;
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />&nbsp;
-	<img height="44" src="https://avatars.githubusercontent.com/u/317889?s=200&v=4" alt="SASS" title="SASS" />&nbsp;
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" />&nbsp;
-	<img height="44" src="./redux-logo.png" alt="Redux" title="Redux" />&nbsp;
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/Tailwind_CSS.png?raw=true?raw=true" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/MUI.png?raw=true?raw=true" alt="Material UI" title="Material UI" />&nbsp;
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/nextjs.png?raw=true?raw=true" alt="Next.JS" title="Next.JS" />&nbsp;
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" />&nbsp;<br>
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express" />&nbsp;
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB" />&nbsp;
-	<img height="44" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST" />&nbsp;
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/supabase.png?raw=true" alt="Supabase" title="Supabase" />&nbsp;
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/firebase.png?raw=true?raw=true" alt="Firebase" title="Firebase" />&nbsp;
-	<img height="44" src="./postgrsql.png" alt="Firebase" title="Firebase" />&nbsp;
-	<img height="44" src="https://raw.githubusercontent.com/thomasaugot/portfolio/ecb3abec1c3eb516eb1f8944fe1bcd9132af1e77/src/components/Curriculum/react-native.png" alt="React native" title="React native" />&nbsp;
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/a72623c6999d3fe2c7fae33ea37abfd3bac74353/src/components/Curriculum/expo.png?raw=true" alt="Expo" title="Expo" />&nbsp;
-	<img height="44" src="https://github.com/thomasaugot/portfolio/blob/main/src/assets/jest.png?raw=true?raw=true" alt="Jest" title="Jest" />&nbsp;
-	<img height="44" src="./php.webp" alt="PHP" title="PHP" />&nbsp;
-	<img height="44" src="./vite.png" alt="Vite" title="Vite" />&nbsp;
-	<img height="48" src="./aws.webp" alt="AWS" title="AWS" />&nbsp;
-</div>
 <br>
 
 ## GitHub Stats:
@@ -60,12 +31,8 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=react)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=react&include_all_commits=true&count_private=true&layout=compact)
 
-## Check out my portfolio website:
-
-https://thomasaugot.com/
-
-## Don't miss my blog articles, and follow me!
-
+## Read my blog articles 
+_Where I share coding adventures, solutions, and occasional eureka moments_ <br/>
 <a href="https://medium.com/@thomasaugot" target="_blank"><img src="./Medium.gif" width="80" /></a>
 
 <details>
