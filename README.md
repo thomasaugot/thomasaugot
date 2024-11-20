@@ -10,26 +10,26 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 ### [➤ Check Out My Portfolio](https://thomasaugot.com)
 
-## Connect with me:
+## 👋 Connect with me
 
 <a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" /></a>
 <a href="mailto:thomas.augot@hotmail.fr"><img src="./outlooklogo.gif" width="60" /></a>
 
 </p>
 
-## 🛠 My ever-expanding tech stack:
+## 🛠 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,ts,react,next,redux,tailwind,sass,nodejs,express,mongodb,postgres,supabase,aws,firebase,vite,jest,threejs" />
   </a>
 </p>
 
-## GitHub Stats:
+## 📈 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thomasaugot&theme=react)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaugot&theme=react&include_all_commits=true&count_private=true&layout=compact)
 
-## Read my blog articles 
+## 📝 Read my blog articles 
 _Where I share coding adventures, solutions, and occasional eureka moments_ <br/>
 <a href="https://medium.com/@thomasaugot" target="_blank"><img src="./Medium.gif" width="80" /></a>
 
