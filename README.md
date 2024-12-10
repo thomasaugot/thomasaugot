@@ -17,12 +17,10 @@ Feel free to explore my repositories, and don't hesitate to reach out if you'd l
 
 </p>
 
-## 🛠 Tech Stack
-<p align="center">
+## 🛠 Favorite Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,js,ts,react,next,redux,tailwind,sass,nodejs,express,mongodb,postgres,supabase,aws,firebase,vite,jest,threejs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,sass,nodejs" />
   </a>
-</p>
 
 ## 📈 GitHub Stats
 
