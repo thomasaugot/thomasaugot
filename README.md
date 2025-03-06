@@ -8,7 +8,7 @@ Full Stack Developer from France, coding by the beach in Las Palmas de Gran Cana
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 🚀
 
-### [➤ Check Out My Portfolio](https://thomasaugot.com)
+### [➤ Check Out My Portfolio]([https://thomasaugot.com](https://portfolio2-0-thomasaugots-projects.vercel.app/))
 
 ## 👋 Connect with me
 
