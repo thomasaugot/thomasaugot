@@ -19,7 +19,7 @@ Frontend Developer from France, coding by the beach in Las Palmas de Gran Canari
 ## 🛠 Favorite Tools
 _They´re just the ones I use the most, I never fail to add new stuff to each project I work on :)_ <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,sass,nodejs,gsap" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,sass,gsap,zustand" />
   </a>
 
 ## 📝 Find me on Medium
