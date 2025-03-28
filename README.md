@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
 Frontend Developer from France, coding by the beach in Las Palmas de Gran Canaria 🌴
-- 👨‍💻 Specialising in Javascript, Typescript, React, Next.js, Tailwind, SCSS and animation libraries eg. Framer motion or GSAP
+- 👨‍💻 JS, Typescript, React, Next.js, Tailwind, SCSS specialist
 - 💼 Currently crafting web apps for Galaga Agency
 - 🗣️ Fluent in French, English, Spanish
 - 🌎 Globetrotter, beach lover & hardstyle addict
