@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I'm+Thomas%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
-Frontend Developer from France, coding by the beach in Las Palmas de Gran Canaria 🌴
-- 👨‍💻 JS, Typescript, React, Next.js, Tailwind, SCSS specialist
+Frontend Developer from France, coding by the beach in Gran Canaria 🌴
+- 👨‍💻 JS, Typescript, React, Next.js, Tailwind, SCSS, Redux, and GSAP specialist
 - 💼 Currently crafting web apps for Galaga Agency
 - 🗣️ Fluent in French, English, Spanish
 - 🌎 Globetrotter, beach lover & hardstyle addict
@@ -23,14 +23,14 @@ _They´re just the ones I use the most, I never fail to add new stuff to each pr
   </a>
 
 ## 📝 Find me on Medium
-_Where I share coding adventures, solutions, and occasional eureka moments_ <br/>
+*Where I share my coding adventures and solutions to recurring challenges, hoping to save others hours of research* <br>
 <a href="https://medium.com/@thomasaugot" target="_blank"><img src="./Medium.gif" width="80" /></a>
 
 <details>
     <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
 
-- [Why You Should Rethink PWAs and Consider WebViews for Cross-Platform Apps](https://medium.com/@thomasaugot/why-you-should-rethink-pwas-and-consider-webviews-for-cross-platform-apps-6c1a4a39d6ce)
-- [AWS for Beginners: Exploring Cloud Services](https://medium.com/@thomasaugot/aws-for-beginners-exploring-cloud-services-b488442c5d93)
+- [Image Preloading in Next.js 15: Make your website load ultra-fast](https://medium.com/@thomasaugot/image-preloading-in-next-js-15-make-your-website-load-ultra-fast-6e3743d55606)
+- [Setting Up GSAP with Next.js: 2025 Edition](https://medium.com/@thomasaugot/setting-up-gsap-with-next-js-2025-edition-bcb86e48eab6)
 - [How to Start Scroll at Bottom in React](https://medium.com/@thomasaugot/how-to-start-scroll-at-bottom-in-react-901ba21cd720)
 - & more at https://medium.com/@thomasaugot
 
