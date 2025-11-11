@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
 Software Developer from France, coding by the beach in Gran Canaria 🌴
+
 - 👨‍💻 Frontend focused - JS, Typescript, React, Next.js, Tailwind, SCSS, Redux, and GSAP specialist - <br/> I also sometimes tackle some backend using Node.js, PostgrSQL and more...
 - 💼 Currently crafting web apps for Galaga Agency
 - 🗣️ Fluent in French, English, Spanish
@@ -12,18 +13,19 @@ Software Developer from France, coding by the beach in Gran Canaria 🌴
 ## 👋 Connect with me
 
 <a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" /></a>
-<a href="mailto:thomas.augot@gmail.com"><img src="./outlooklogo.gif" width="60" /></a>
+<a href="mailto:thomas.augot@gmail.com"><img src="./gmail.gif" width="60"/></a>
 
 </p>
 
-## 🛠 Favorite Tools
-_They´re just the ones I use the most, I never fail to add new stuff to each project I work on :)_ <br/><br/>
+## 🛠 Favorite Tech Stack
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,redux,express,nodejs,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,next,tailwind,redux,express,nodejs,postgres" />
   </a>
 
 ## 📝 Find me on Medium
-*Where I share my coding adventures and solutions to recurring challenges, hoping to save others hours of research* <br>
+
+_Where I share my coding adventures and solutions to recurring challenges, hoping to save others hours of research_ <br>
 <a href="https://medium.com/@thomasaugot" target="_blank"><img src="./Medium.gif" width="80" /></a>
 
 <details>
