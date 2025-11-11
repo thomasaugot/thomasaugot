@@ -12,7 +12,7 @@ Software Developer from France, coding by the beach in Gran Canaria 🌴
 ## 👋 Connect with me
 
 <a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" /></a>
-<a href="mailto:thomas.augot@hotmail.fr"><img src="./outlooklogo.gif" width="60" /></a>
+<a href="mailto:thomas.augot@gmail.com"><img src="./outlooklogo.gif" width="60" /></a>
 
 </p>
 
