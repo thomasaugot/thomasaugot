@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
 Software Developer from France, coding by the beach in Gran Canaria 🌴
-- 👨‍💻 Frontend focused - JS, Typescript, React, Next.js, Tailwind, SCSS, Redux, and GSAP specialist - <br/> I also sometimes tackle some backend using Node.js, SQL...
+- 👨‍💻 Frontend focused - JS, Typescript, React, Next.js, Tailwind, SCSS, Redux, and GSAP specialist - <br/> I also sometimes tackle some backend using Node.js, PostgrSQL and more...
 - 💼 Currently crafting web apps for Galaga Agency
 - 🗣️ Fluent in French, English, Spanish
 - 🌎 Globetrotter, beach lover & hardstyle addict
@@ -19,7 +19,7 @@ Software Developer from France, coding by the beach in Gran Canaria 🌴
 ## 🛠 Favorite Tools
 _They´re just the ones I use the most, I never fail to add new stuff to each project I work on :)_ <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,sass,gsap,zustand" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,redux,express,nodejs,postgres" />
   </a>
 
 ## 📝 Find me on Medium
