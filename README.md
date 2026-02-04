@@ -3,12 +3,12 @@
 
 Software Developer from France, coding by the beach in Gran Canaria 🌴
 
-- 👨‍💻 Frontend focused - JS, Typescript, React, Next.js, Tailwind, SCSS, Redux, and GSAP specialist - <br/> I also sometimes tackle some backend using Node.js, PostgrSQL and more...
-- 💼 Currently crafting web apps for Galaga Agency
+- 👨‍💻 Frontend focused - JS, Typescript, React, Next.js, Tailwind, and GSAP specialist - <br/> I also tackle some backend using Node.js, PostgrSQL, Docker and more...
+- 💼 Currently crafting web apps for Galaga Agency, learning WebGL & Three.JS
 - 🗣️ Fluent in French, English, Spanish
 - 🌎 Globetrotter, beach lover & hardstyle addict
 
-### [➤ Check Out My Portfolio](https://portfolio2-0-thomasaugots-projects.vercel.app/)
+### [➤ Check Out My Portfolio](https://www.helloimtom.dev/)
 
 ## 👋 Connect with me
 
@@ -20,7 +20,7 @@ Software Developer from France, coding by the beach in Gran Canaria 🌴
 ## 🛠 Favorite Tech Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,next,tailwind,redux,express,nodejs,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,next,tailwind,redux,nodejs,postgres,docker,threejs" />
   </a>
 
 ## 📝 Find me on Medium
