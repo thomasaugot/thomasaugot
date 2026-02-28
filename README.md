@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I'm+Thomas%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
 
-Software Developer from France, coding by the beach in Gran Canaria 🌴
+Fullstack Developer from France, coding by the beach in Gran Canaria 🌴
 
 - 👨‍💻 Frontend focused - Typescript, Next.js, React, React-Native, Tailwind, and GSAP specialist - <br/> I also tackle some backend using Node.js, PostgrSQL, Docker and more...
 - 💼 Currently crafting web and mobile apps for Galaga Agency
