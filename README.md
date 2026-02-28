@@ -3,12 +3,13 @@
 
 Software Developer from France, coding by the beach in Gran Canaria 🌴
 
-- 👨‍💻 Frontend focused - JS, Typescript, React, Next.js, Tailwind, and GSAP specialist - <br/> I also tackle some backend using Node.js, PostgrSQL, Docker and more...
-- 💼 Currently crafting web apps for Galaga Agency, learning WebGL & Three.JS
+- 👨‍💻 Frontend focused - Typescript, Next.js, React, React-Native, Tailwind, and GSAP specialist - <br/> I also tackle some backend using Node.js, PostgrSQL, Docker and more...
+- 💼 Currently crafting web and mobile apps for Galaga Agency
+- 🌱 Learning WebGL & Three.JS to create 3D webs
 - 🗣️ Fluent in French, English, Spanish
 - 🌎 Globetrotter, beach lover & hardstyle addict
 
-### [➤ Check Out My Portfolio](https://www.helloimtom.dev/)
+### [➤ helloimtom.dev](https://www.helloimtom.dev/)
 
 ## 👋 Connect with me
 
@@ -20,26 +21,10 @@ Software Developer from France, coding by the beach in Gran Canaria 🌴
 ## 🛠 Favorite Tech Stack
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,next,tailwind,redux,nodejs,postgres,docker,threejs" />
+    <img src="https://skillicons.dev/icons?i=ts,react,vite,next,tailwind,nodejs,postgres,docker,threejs" />
   </a>
 
 ## 📝 Find me on Medium
 
 _Where I share my coding adventures and solutions to recurring challenges, hoping to save others hours of research_ <br>
 <a href="https://medium.com/@thomasaugot" target="_blank"><img src="./Medium.gif" width="80" /></a>
-
-<details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
-
-- [Image Preloading in Next.js 15: Make your website load ultra-fast](https://medium.com/@thomasaugot/image-preloading-in-next-js-15-make-your-website-load-ultra-fast-6e3743d55606)
-- [Setting Up GSAP with Next.js: 2025 Edition](https://medium.com/@thomasaugot/setting-up-gsap-with-next-js-2025-edition-bcb86e48eab6)
-- [How to Start Scroll at Bottom in React](https://medium.com/@thomasaugot/how-to-start-scroll-at-bottom-in-react-901ba21cd720)
-- & more at https://medium.com/@thomasaugot
-
-</details>
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=thomasaugot)
-
-</details>
