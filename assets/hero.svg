@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 456" role="img" aria-label="Terminal printing THOMAS AUGOT in lime pixel letters: fullstack developer based in Fuerteventura, at Galaga Agency">
 <defs><clipPath id="frame"><rect width="1280" height="456" rx="14"/></clipPath></defs>
 <style>
-.w{animation:w 7s step-end infinite}@keyframes w{0%{fill:#f4f1e8}3%,100%{fill:#d4ff3a}}
+.w{animation:w 7s step-end infinite}@keyframes w{0%{fill:#d4ff3a}3%,100%{fill:#d4ff3a}}
 .cur{transform:translate(0,328px)}
 .bl{animation:bl 1s step-end infinite}@keyframes bl{50%{opacity:0}}
 
