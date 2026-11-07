@@ -1,30 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=800&random=false&width=835&height=75&lines=Hi+there!+I'm+Thomas%2C;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/117474095/277176974-af1058e9-95fa-49ea-b3fc-14669834b6a5.gif" width="120" align="right" />
+<a href="https://www.helloimtom.dev/"><img src="./assets/hero.svg" width="100%" alt="Terminal printing THOMAS AUGOT in lime pixel letters: fullstack developer based in Fuerteventura, at Galaga Agency" /></a>
 
-Fullstack Developer from France, coding by the beach in Gran Canaria 🌴
+Fullstack developer from France, shipping web and mobile products from the beach in Fuerteventura 🌴
 
-- 👨‍💻 Frontend focused - Typescript, Next.js, React, React-Native, Tailwind, and GSAP specialist - <br/> I also tackle some backend using Node.js, PostgrSQL, Docker and more...
-- 💼 Currently crafting web and mobile apps for Galaga Agency
-- 🌱 Learning WebGL & Three.JS to create 3D webs
-- 🗣️ Fluent in French, English, Spanish
-- 🌎 Globetrotter, beach lover & hardstyle addict
+<a href="https://www.helloimtom.dev/"><img src="./assets/btn-site.svg" width="24.1%" alt="helloimtom.dev" /></a> <a href="https://www.linkedin.com/in/thomas-augot"><img src="./assets/btn-linkedin.svg" width="24.1%" alt="LinkedIn" /></a> <a href="https://medium.com/@thomasaugot"><img src="./assets/btn-medium.svg" width="24.1%" alt="Medium" /></a> <a href="mailto:thomas.augot@gmail.com"><img src="./assets/btn-email.svg" width="24.1%" alt="Email" /></a>
 
-### [➤ helloimtom.dev](https://www.helloimtom.dev/)
+## Favorite stack
 
-## Say hi! 👋 
+<img src="./assets/stack.svg" width="100%" alt="TypeScript, Next.js, React, React Native, Tailwind, GSAP, Three.js, Node.js, PostgreSQL, Supabase, Docker, Expo" />
 
-<a href="https://www.linkedin.com/in/thomas-augot" target="_blank"><img src="./372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" width="60" /></a>
-<a href="mailto:thomas.augot@gmail.com"><img src="./gmail.gif" width="60"/></a>
+## Selected work
 
+Mostly private repos, so here's the live work. [More on my portfolio →](https://www.helloimtom.dev/en/work)
+
+<p align="center">
+  <a href="https://materiaprimamagazine.com/"><img src="./assets/work-materia-prima.svg" width="49%" alt="Materia Prima: editorial magazine with a headless CMS" /></a>
+  <a href="https://frontonking.com"><img src="./assets/work-fronton-king.svg" width="49%" alt="Gran Canaria Frontón King: world championship site and live event PWA" /></a>
+  <a href="https://www.dospordosgrupoimagen.com/"><img src="./assets/work-dosxdos-web.svg" width="49%" alt="Dos × Dos Grupo Imagen: corporate website with a custom admin panel" /></a>
+  <a href="https://www.helloimtom.dev/en/work/dosxdos-montadores-app"><img src="./assets/work-montadores.svg" width="49%" alt="Montadores App: native iOS and Android app for field installation crews" /></a>
 </p>
 
-## 🛠 Favorite Tech Stack
+## On Medium
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,vite,next,tailwind,nodejs,postgres,docker,threejs" />
-  </a>
+My latest articles, sharing what I build and solutions to recurring challenges.
 
-## 📝 Find me on Medium
+<a href="https://medium.com/@thomasaugot/i-built-a-lead-qualifying-chatbot-in-next-js-559d7404977a"><img src="./assets/commit-chatbot.svg" width="100%" alt="I Built a Lead-Qualifying Chatbot in Next.js" /></a>
+<a href="https://medium.com/@thomasaugot/how-i-got-my-next-js-portfolio-to-score-100-on-lighthouse-accessibility-0405c3582f3a"><img src="./assets/commit-a11y.svg" width="100%" alt="How I Got My Next.js Portfolio to Score 100% on Lighthouse Accessibility" /></a>
+<a href="https://medium.com/@thomasaugot/how-to-keep-rich-animations-snappy-in-next-js-15-46d90f503b15"><img src="./assets/commit-animations.svg" width="100%" alt="How to Keep Rich Animations Snappy in Next.js 15" /></a>
+<a href="https://medium.com/@thomasaugot/how-to-set-up-google-analytics-with-google-tag-manager-in-next-js-15-in-2025-dedfcaee875a"><img src="./assets/commit-analytics.svg" width="100%" alt="How to Set Up Google Analytics with Google Tag Manager in Next.js 16" /></a>
 
-_Where I share my coding adventures and solutions to recurring challenges, hoping to save others hours of research_ <br>
-<a href="https://medium.com/@thomasaugot" target="_blank"><img src="./Medium.gif" width="80" /></a>
+[All articles →](https://medium.com/@thomasaugot)
